@@ -1,0 +1,6 @@
+selenium
+pandas
+streamlit
+numpy
+beautifulsoup4
+smtplib
